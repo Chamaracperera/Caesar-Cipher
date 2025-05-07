@@ -83,12 +83,13 @@ Or run CaesarCipher.exe from bin\Debug\
 
 This project is made possible through the collaboration of the following team members:
 
-* **queue setup **
+* **queue setup**
   * [Chamara Perera ](https://github.com/Chamaracperera)
-* ** Encryption logic**
-  * [Sathsarani Geethamali](https://github.com/Sathsarani2002)
-* **Decryption logic**
+* **Encryption logic**
   * [Chanuli Sandanayake](https://github.com/Chanuli-Sandanayake)
+* **Decryption logic**
+  * [Sathsarani Geethamali](https://github.com/Sathsarani2002)
+  
 
 
 ### Git Workflow:
