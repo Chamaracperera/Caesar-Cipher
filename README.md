@@ -52,11 +52,13 @@ Original Message: HELLO WORLD
 
 ## 📁 Project Structure
 
+```bash
 Caesar-Cipher-Group/
 ├── main.c          # Main application logic
 ├── queue.c         # Circular queue logic and helper functions
 ├── queue.h         # Queue header file
 ├── README.md       # Project documentation
+```
 
 ## 🧰 How to Compile and Run
 
