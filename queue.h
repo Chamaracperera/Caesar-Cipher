@@ -12,6 +12,7 @@ typedef struct {
 } CircularQueue;
 
 void CreateQueue(CircularQueue *q);
+void EncryptMessage(CircularQueue *q, char *message, int key);
 
 
 #endif
