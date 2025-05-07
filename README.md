@@ -36,6 +36,7 @@ This project enhances our understanding of:
 
 ## 🧪 Sample Output
 
+```plaintext
 Encryption (E) or Decryption (D)?: E
 Enter your message: HELLO WORLD
 Enter shift key: 3
@@ -47,7 +48,7 @@ Enter your message: KHOOR ZRUOG
 Enter shift key: 3
 *****************************
 Original Message: HELLO WORLD
-
+```
 
 ## 📁 Project Structure
 
@@ -64,15 +65,19 @@ Caesar-Cipher-Group/
 Using GCC:
 
 ```bash
-gcc main.c queue.c -o caesar
+gcc main.c queue.c -o CaesarCipher
 ```
 
 ### Run
 
 ```bash
-./caesar
+./CaesarCipher
 ```
+### On Windows (if using Code::Blocks):
 
+Press F9 to Build & Run
+
+Or run CaesarCipher.exe from bin\Debug\
 
 ## 🌐 GitHub Collaboration
 
@@ -88,7 +93,7 @@ This project is made possible through the collaboration of the following team me
 
 ### Git Workflow:
 
-* 🔄 Branching (`feature/encryption`, `feature/testing`, etc.)
+* 🔄 Branching (`main`, `testing`, `feature/queue``feature/encryption`, `feature/decryption`)
 * ✅ Commit logs for each implementation step
 * 🔀 Pull requests and code review for merging
 * 👥 Contributor history for tracking individual work
