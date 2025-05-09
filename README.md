@@ -28,11 +28,12 @@ This project enhances our understanding of:
 
 ## ⚙️ Features
 
-- ✅ Encrypt or decrypt messages using any integer shift key
-- ✅ Supports both positive and negative keys
-- ✅ Preserves uppercase and lowercase letters
-- ✅ Ignores non-letter characters like spaces and punctuation
-- ✅ Demonstrates circular queue rotation logic
+- 🔁 Circular queue simulates the alphabet
+- 🔐 Encrypts messages using Caesar cipher logic
+- 🔓 Decrypts messages using reverse rotation
+- 🔣 Preserves letter case (uppercase/lowercase)
+- ❌ Skips non-alphabetic characters (e.g., punctuation, spaces)
+- 🔑 Works with positive or negative integer shift keys
 
 ## 🧪 Sample Output
 
@@ -89,7 +90,7 @@ This project is made possible through the collaboration of the following team me
   * [Chamara Perera ](https://github.com/Chamaracperera)
 * **Encryption logic**
   * [Chanuli Sandanayake](https://github.com/Chanuli-Sandanayake)
-* **Decryption logic**
+* **Decryption logic and function calls**
   * [Sathsarani Geethamali](https://github.com/Sathsarani2002)
   
 
